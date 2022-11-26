@@ -2,6 +2,8 @@
 
 Encrypt and decrypt using XOR bitwise operation
 
+[About algorithm](About.md)
+
 ### Adding to CMake project
 ```shell
 $ cd <project_folder>
