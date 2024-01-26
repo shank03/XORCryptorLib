@@ -4,6 +4,8 @@ Encrypt and decrypt using XOR bitwise operation
 
 [About algorithm](About.md)
 
+Checkout it's Rust implementation [here](https://github.com/shank03/XORCryptorRust)
+
 ### Adding to CMake project
 ```shell
 $ cd <project_folder>
